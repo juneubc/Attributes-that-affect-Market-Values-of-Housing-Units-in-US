@@ -1,5 +1,13 @@
 # Linear Regression for Current Market Value of the Housing Unit in US 
 
+•	Cleaned dataset by merging across multiple years’ data and provided descriptive statistics on Fair Market Rents.
+
+•	Compared pairwise differences in Fair Market Rents and built a Regression Model for predicting rental rates. 
+
+Excel Tools used: Vlookup, Pivot Table, Linear Regression, P-Value, Adjusted R Square
+
+
+
 
 Data Sources: https://www.huduser.gov/portal/datasets/hads/hads.html (2005-2013)
 
